@@ -1,0 +1,103 @@
+body {
+  background-color: #F0F0F0;
+  font-family: Helvetica Neue;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+h1, h2, h3{
+  font-family: Helvetica Neue;
+  font-weight: bolder;
+}
+
+
+p {
+ color: #465362;
+}
+
+h1 {
+  color: #465362;
+}
+
+h2 {
+  color: #C0DFA1;
+}
+
+h3 {
+  color: #C0DFA1;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.container {
+  margin: 50px auto;
+  border-color: black;
+}
+
+.btn-dark {
+  display: inline-block;
+  background-color: #465362;
+  text-decoration: none;
+  border-radius: 4px;
+  padding: 10px;
+  color: white;
+}
+
+.btn-dark:hover {
+  background-color: #B0BDC6;
+}
+
+.card-white {
+  background-color: #FCFCFC;
+  padding: 20px;
+  margin: 40px;
+  text-align: center;
+  box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.54);
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.fa-facebook-f {
+  color: #4267B2;
+  padding: 5px;
+}
+
+.fa-facebook-f:hover {
+  color: #17354d;
+}
+
+.fa-instagram{
+  color: #C52B7F;
+  padding: 5px;
+}
+
+.fa-instagram:hover{
+color: #851150
+}
+
+.fa-twitter {
+  color: #1D9CEB;
+  padding: 5px;
+}
+
+.fa-twitter:hover{
+color: #0e5987
+}
+
+.fa-github {
+  color: #24292E;
+  padding: 5px;
+}
+
+.fa-github:hover{
+color: #555f66
+}
+
+.list-inline > li {
+  display: inline-block;
+}
